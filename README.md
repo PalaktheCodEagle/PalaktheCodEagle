@@ -17,7 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left" style="background-color: '#4d4d4d' border-radius: '10px' border: '1px solid #ffffff' padding: '20px';"> 
+<p align="left"> 
 
   <a target="_blank" href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp;
   <a target="_blank" href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;
