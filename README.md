@@ -1,3 +1,5 @@
+<body style="background-color: #4d4d4d;">
+
 <h1 align="justify">Hi 👋, I'm Palak</h1>
 <h3 align="justify">Fueled by curiosity, I'm a passionate web developer and UI/UX enthusiast who loves crafting delightful digital experiences and uncovering insights through data.</h3>
 
@@ -31,3 +33,5 @@
   <a target="_blank" href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> &nbsp;
   <a target="_blank" href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> &nbsp;
   <a target="_blank" href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> &nbsp; </p>
+
+</body>
