@@ -17,7 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div align="left" style="background-color: #4d4d4d; border-radius: 10px; border: 1px solid #ffffff; padding: 20px; display: flex; flex-wrap: wrap; max-width: 360px;">
+<div align="left" style="background-color: '#4d4d4d'; border-radius: '10px'; border: '1px solid #ffffff'; padding: '20px'; display: 'flex'; flex-wrap: 'wrap'; max-width: '360px';">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
