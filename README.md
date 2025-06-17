@@ -11,35 +11,35 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/palak-desai-21180a25b/" target="blank"> <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" /> </a>
-<a href="https://www.hackerrank.com/palakd683" target="blank"> <img src="{https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white}" /> </a>
+<a href="https://www.linkedin.com/in/palak-desai-21180a25b/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="40" /> </a>
+<a href="https://www.hackerrank.com/palakd683" target="blank"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" width="120" height="40" /> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="{https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white}" /> </a> &nbsp;
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="{https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white}" /> </a> &nbsp;
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="120" height="40" /> </a> &nbsp;
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" width="120" height="40" /> </a> &nbsp;
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" /> </a> &nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="{https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white}" /> </a> &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" /> </a> &nbsp;
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="{https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white}" /> </a> &nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="120" height="40" /> </a> &nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="120" height="40" /> </a> &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="120" height="40" /> </a> &nbsp;
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" width="120" height="40" /> </a> &nbsp;
 
-  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="{https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white}" /> </a> &nbsp;
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="{https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white}" /> </a> &nbsp;
+  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" width="120" height="40" /> </a> &nbsp;
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" width="120" height="40" /> </a> &nbsp;
   
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="{https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white}" /> </a> &nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="120" height="40" /> </a> &nbsp;
    
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" /> </a> &nbsp;
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="{https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white}" /> </a> &nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="{https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white}" /> </a> &nbsp;
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="{https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white}" /> </a> &nbsp;
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="{https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white}" /> </a> &nbsp;
-  <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="{https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white}" /> </a> &nbsp;
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="{https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white}" /> </a> &nbsp; </p>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="120" height="40" /> </a> &nbsp;
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" width="120" height="40" /> </a> &nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" width="120" height="40" /> </a> &nbsp;
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" width="120" height="40" /> </a> &nbsp;
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" width="120" height="40" /> </a> &nbsp;
+  <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" width="120" height="40" /> </a> &nbsp;
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" width="120" height="40" /> </a> &nbsp; </p>
 
-  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="{https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white}" /> </a> &nbsp; </p>
-  <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer"> <img src="{https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white}" /> </a> &nbsp; </p>
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="{https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white}" /> </a> &nbsp; </p>
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" width="120" height="40" /> </a> &nbsp; </p>
+  <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" width="120" height="40" /> </a> &nbsp; </p>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" width="120" height="40" /> </a> &nbsp; </p>
