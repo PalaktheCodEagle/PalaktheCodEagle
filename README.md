@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/palak-desai-21180a25b/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="auto" height="40" /> </a>
+<a href="https://www.linkedin.com/in/palak-desai-21180a25b/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="auto" height="40" /> </a> &nbsp;
 <a href="https://www.hackerrank.com/palakd683" target="blank"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" width="auto" height="40" /> </a>
 </p>
 
@@ -38,8 +38,8 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" width="auto" height="40" /> </a> &nbsp;
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" width="auto" height="40" /> </a> &nbsp;
   <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Plotly-239auto?style=for-the-badge&logo=plotly&logoColor=white" width="auto" height="40" /> </a> &nbsp;
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" width="auto" height="40" /> </a> &nbsp; </p>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" width="auto" height="40" /> </a> &nbsp;
 
-  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" width="auto" height="40" /> </a> &nbsp; </p>
-  <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" width="auto" height="40" /> </a> &nbsp; </p>
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" width="auto" height="40" /> </a> &nbsp; 
+  <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" width="auto" height="40" /> </a> &nbsp;
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" width="auto" height="40" /> </a> &nbsp; </p>
