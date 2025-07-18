@@ -19,7 +19,8 @@
 
 <p align="left"> 
 
- <a href="https://webflow.com/" target="_blank" rel="noreferrer"> <img src="![Webflow](https://img.shields.io/badge/webflow-%23146EF5.svg?style=for-the-badge&logo=webflow&logoColor=white)" width="auto" height="40" /> </a> &nbsp;
+ <a href="https://webflow.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/webflow-%23146EF5.svg?style=for-the-badge&logo=webflow&logoColor=white" width="auto" height="40" />
+</a> &nbsp;
  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" width="auto" height="40" /> </a> &nbsp;
  
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="auto" height="40" /> </a> &nbsp;
