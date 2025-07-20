@@ -47,4 +47,5 @@
 
   <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" width="auto" height="40" /> </a> &nbsp; 
   <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" width="auto" height="40" /> </a> &nbsp;
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" width="auto" height="40" /> </a> &nbsp; </p>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" width="auto" height="40" /> </a> &nbsp;
+  <a href="https://qgis.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/qgis-3.34_prizren-93b023?&style=for-the-badge&logo=qgis&logoColor=white" width="auto" height="40" /> </a> &nbsp;</p>
