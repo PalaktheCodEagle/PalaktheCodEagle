@@ -1,7 +1,7 @@
 <h1 align="justify">Hi 👋, I'm Palak</h1>
 <h3 align="justify">Fueled by curiosity, I'm a passionate web developer and UI/UX enthusiast who loves crafting delightful digital experiences and uncovering insights through data.</h3>
 
-- 👨‍💻 All of my projects are available at [https://palakthecodeagle.github.io/PD_Portfolio/](https://palakthecodeagle.github.io/PD_Portfolio/)
+- 👨‍💻 View my details and projects at [https://palak-desai.framer.website/](https://palak-desai.framer.website/)
 
 - 📝 I regularly write articles on [https://medium.com/@palakd683](https://medium.com/@palakd683)
 
