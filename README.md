@@ -3,7 +3,7 @@
 
 - 👨‍💻 View my details and projects at [https://palak-desai.framer.website/](https://palak-desai.framer.website/)
 
-- 📝 Check out my writings on [https://medium.com/@palakd683](https://medium.com/@palakd683) and [https://x.com/PalakD36](https://x.com/PalakD36)
+- 📝 Check out my writings at [https://medium.com/@palakd683](https://medium.com/@palakd683)
 - 💬 Ask me about **Figma, UI/UX Designing, Front End Web Development**
 
 - 📫 How to reach me **palakd683@gmail.com**
