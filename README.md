@@ -3,7 +3,7 @@
 
 - 👨‍💻 View my details and projects at [https://palak-desai.framer.website/](https://palak-desai.framer.website/)
 
-- 📝 I write articles on [https://medium.com/@palakd683](https://medium.com/@palakd683) and [https://x.com/PalakD36](https://x.com/PalakD36)
+- 📝 Check out my writings on <a href="https://medium.com/@palakd683" target="_blank"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" width="auto" height="40" /> </a> and <a href="https://x.com/PalakD36" target="_blank"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" width="auto" height="40" /> </a>
 
 - 💬 Ask me about **Figma, UI/UX Designing, Front End Web Development**
 
