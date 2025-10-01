@@ -56,55 +56,55 @@
 </p>
 <h3 align="left">Languages, Frameworks and Tools:</h3>
 
-  <table border="1">
-    <tr>
-      <th colspan="4">Languages</th>
-    </tr>
-    <tr>
-      <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a></td>
-      <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a></td>
-      <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a></td>
-      <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a></td>
-    </tr>
+<table border="1">
+<tr>
+  <th colspan="4">Languages</th>
+</tr>
+<tr>
+  <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a></td>
+  <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a></td>
+  <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a></td>
+  <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a></td>
+</tr>
 
-    <tr>
-      <th colspan="4">Frameworks</th>
-    </tr>
-    <tr>
-      <td><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a></td>
-      <td><a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></a></td>
-      <td><a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" /></a></td>
-      <td><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a></td>
-      <td><a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Plotly-239auto?style=for-the-badge&logo=plotly&logoColor=white" /></a></td>
-      <td><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" /></a></td>
-      <td></td>
-    </tr>
+<tr>
+  <th colspan="4">Frameworks</th>
+</tr>
+<tr>
+  <td><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a></td>
+  <td><a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></a></td>
+  <td><a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" /></a></td>
+  <td><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a></td>
+</tr>
+<tr>
+  <td><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a></td>
+  <td><a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Plotly-239auto?style=for-the-badge&logo=plotly&logoColor=white" /></a></td>
+  <td><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" /></a></td>
+  <td></td>
+</tr>
 
-    <tr>
-      <th colspan="4">Tools</th>
-    </tr>
-    <tr>
-      <td><a href="https://webflow.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/webflow-%23146EF5.svg?style=for-the-badge&logo=webflow&logoColor=white" /></a></td>
-      <td><a href="https://www.framer.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" /></a></td>
-      <td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a></td>
-      <td><a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" /></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a></td>
-      <td><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /></a></td>
-      <td><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /></a></td>
-      <td><a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" /></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://www.overleaf.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" /></a></td>
-      <td><a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" /></a></td>
-      <td><a href="https://qgis.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/qgis-3.34_prizren-93b023?&style=for-the-badge&logo=qgis&logoColor=white" /></a></td>
-      <td></td>
-    </tr>
-  </table>
+<tr>
+  <th colspan="4">Tools</th>
+</tr>
+<tr>
+  <td><a href="https://webflow.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/webflow-%23146EF5.svg?style=for-the-badge&logo=webflow&logoColor=white" /></a></td>
+  <td><a href="https://www.framer.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" /></a></td>
+  <td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a></td>
+  <td><a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" /></a></td>
+</tr>
+<tr>
+  <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a></td>
+  <td><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /></a></td>
+  <td><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /></a></td>
+  <td><a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" /></a></td>
+</tr>
+<tr>
+  <td><a href="https://www.overleaf.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" /></a></td>
+  <td><a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" /></a></td>
+  <td><a href="https://qgis.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/qgis-3.34_prizren-93b023?&style=for-the-badge&logo=qgis&logoColor=white" /></a></td>
+  <td></td>
+</tr>
+</table>
 
 <p align="left"> 
 
