@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/palak-desai-21180a25b/" target="_blank" style="border-radius: 100px;"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="auto" height="40" /> </a> &nbsp;
+<a href="https://www.linkedin.com/in/palak-desai-21180a25b/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="auto" height="40" /> </a> &nbsp;
 <a href="https://orcid.org/0009-0009-2955-7906" target="_blank"> <img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" width="auto" height="40" /> </a> &nbsp;
 <a href="https://www.hackerrank.com/palakd683" target="_blank"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" width="auto" height="40" /> </a>
 <a href="https://x.com/PalakD36" target="_blank"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" width="auto" height="40" /> </a>
