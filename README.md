@@ -17,6 +17,9 @@
 </p>
 <h3 align="left">Languages, Frameworks and Tools:</h3>
  <a href="[https://webflow.com/](https://github.com/anuraghazra/github-readme-stats)" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie" width="auto" height="auto" />
+ <a href="[https://webflow.com/](https://github.com/anuraghazra/github-readme-stats)" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie" width="auto" height="auto" />
+ <a href="[https://webflow.com/](https://github.com/anuraghazra/github-readme-stats)" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie" width="auto" height="auto" />
+  
 </a>
 
 <p align="left"> 
