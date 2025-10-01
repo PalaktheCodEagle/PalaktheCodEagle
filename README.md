@@ -16,10 +16,7 @@
 <a href="https://x.com/PalakD36" target="_blank"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" width="auto" height="40" /> </a>
 </p>
 <h3 align="left">Languages, Frameworks and Tools:</h3>
- <a href="[https://webflow.com/](https://github.com/PalaktheCodEagle/github-readme-stats)" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie" width="auto" height="auto" />
- <a href="[https://webflow.com/](https://github.com/PalaktheCodEagle/github-readme-stats)" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie" width="auto" height="auto" />
- <a href="[https://webflow.com/](https://github.com/PalaktheCodEagle/github-readme-stats)" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie" width="auto" height="auto" />
-  
+ <a href="https://github.com/PalaktheCodEagl/github-readme-stats" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalaktheCodEagl&layout=pie" width="auto" height="auto" />
 </a>
 
 <p align="left"> 
